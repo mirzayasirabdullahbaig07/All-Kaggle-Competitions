@@ -15,25 +15,25 @@ This repository showcases my participation, rankings, and learning journey acros
 
 ## 📊 Competition Summary
 
-| Competition                                 | Category   | Rank | Teams |
-| ------------------------------------------- | ---------- | ---- | ----- |
-| Stanford RNA 3D Folding Part 2              | Code       | 328  | 1867  |
-| March Machine Learning Mania 2026           | Featured   | 1210 | 3462  |
-| AI Mathematical Olympiad - Progress Prize 3 | Code       | 1988 | 4138  |
-| Predict Customer Churn                      | Playground | 83   | 4142  |
-| Predicting Student Test Scores              | Playground | 131  | 4317  |
-| Predicting Heart Disease                    | Playground | 318  | 4370  |
-| Jaguar Re-Identification Challenge          | Community  | 39   | 348   |
-| Hedge Fund - Time Series Forecasting        | Community  | 42   | 982   |
-| ICDAR 2026 - CircleID: Pen Classification   | Community  | 52   | 389   |
+| Competition                                 | Category   | Rank | Teams | Link                                        |
+| ------------------------------------------- | ---------- | ---- | ----- | ------------------------------------------- |
+| Stanford RNA 3D Folding Part 2              | Code       | 328  | 1867  | [View](https://www.kaggle.com/competitions) |
+| March Machine Learning Mania 2026           | Featured   | 1210 | 3462  | [View](https://www.kaggle.com/competitions) |
+| AI Mathematical Olympiad - Progress Prize 3 | Code       | 1988 | 4138  | [View](https://www.kaggle.com/competitions) |
+| Predict Customer Churn                      | Playground | 83   | 4142  | [View](https://www.kaggle.com/competitions) |
+| Predicting Student Test Scores              | Playground | 131  | 4317  | [View](https://www.kaggle.com/competitions) |
+| Predicting Heart Disease                    | Playground | 318  | 4370  | [View](https://www.kaggle.com/competitions) |
+| Jaguar Re-Identification Challenge          | Community  | 39   | 348   | [View](https://www.kaggle.com/competitions) |
+| Hedge Fund - Time Series Forecasting        | Community  | 42   | 982   | [View](https://www.kaggle.com/competitions) |
+| ICDAR 2026 - CircleID: Pen Classification   | Community  | 52   | 389   | [View](https://www.kaggle.com/competitions) |
 
 ---
 
 ## 🚀 Highlights
 
 * 🥇 **Top 2%** – Predict Customer Churn (83/4142)
-* 🥈 **Top 4%** – Jaguar Re-Identification Challenge (39/348)
-* 🥉 Strong performance across multiple domains including:
+* 🥈 **Top 12%** – Hedge Fund Time Series (42/982)
+* 🥉 Strong performance across multiple domains:
 
   * Time Series Forecasting
   * Computer Vision
@@ -88,8 +88,8 @@ This repository showcases my participation, rankings, and learning journey acros
 
 ## 🤝 Connect With Me
 
-* Kaggle: https://www.kaggle.com/mirzayasirabdullah07
-* LinkedIn: *(Add your profile here)*
+* 🔗 Kaggle: https://www.kaggle.com/mirzayasirabdullah07
+* 🔗 LinkedIn: https://www.linkedin.com/in/mirza-yasir-abdullah-baig/
 
 ---
 
