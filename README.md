@@ -29,6 +29,21 @@ This repository showcases my participation, rankings, and learning journey acros
 
 ---
 
+## 📸 Kaggle Dashboard & Competition Snapshots
+
+Here are some highlights from my Kaggle journey, including leaderboard rankings and competition results:
+
+<p align="center">
+  <img src="images/kaggle1.png" width="45%" />
+  <img src="images/kaggle2.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="images/kaggle3.png" width="60%" />
+</p>
+
+---
+
 ## 🚀 Highlights
 
 * 🥇 **Top 2%** – Predict Customer Churn (83/4142)
