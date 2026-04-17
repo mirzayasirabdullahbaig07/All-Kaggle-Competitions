@@ -19,7 +19,7 @@ This repository showcases my participation, rankings, and learning journey acros
 | ------------------------------------------- | ---------- | ---- | ----- | ------------------------------------------- |
 | Stanford RNA 3D Folding Part 2              | Code       | 328  | 1867  | [View](https://www.kaggle.com/competitions) |
 | March Machine Learning Mania 2026           | Featured   | 1210 | 3462  | [View](https://www.kaggle.com/competitions) |
-| AI Mathematical Olympiad - Progress Prize 3 | Code       | 1988 | 4138  | [View](https://www.kaggle.com/competitions) |
+| AI Mathematical Olympiad - Progress Prize 3 | Code       | 1988 | 4138  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
 | Predict Customer Churn                      | Playground | 83   | 4142  | [View](https://www.kaggle.com/competitions) |
 | Predicting Student Test Scores              | Playground | 131  | 4317  | [View](https://www.kaggle.com/competitions) |
 | Predicting Heart Disease                    | Playground | 318  | 4370  | [View](https://www.kaggle.com/competitions) |
