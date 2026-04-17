@@ -21,7 +21,7 @@ This repository showcases my participation, rankings, and learning journey acros
 | March Machine Learning Mania 2026           | Featured   | 1210 | 3462  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
 | AI Mathematical Olympiad - Progress Prize 3 | Code       | 1988 | 4138  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
 | Predict Customer Churn                      | Playground | 83   | 4142  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
-| Predicting Student Test Scores              | Playground | 131  | 4317  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
+| Predicting Student Test Scores              | Playground | 131  | 4317  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/predicting-student-performance-in-exams) |
 | Predicting Heart Disease                    | Playground | 318  | 4370  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/heart-disease-prediction) |
 | Jaguar Re-Identification Challenge          | Community  | 39   | 348   | [View](https://www.kaggle.com/code/mirzayasirabdullah07/jaguar-re-identification-challenge-notebook) |
 | Hedge Fund - Time Series Forecasting        | Community  | 42   | 982   | [View](https://www.kaggle.com/code/mirzayasirabdullah07/hedge-fund-new-notebook) |
