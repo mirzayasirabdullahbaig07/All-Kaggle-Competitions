@@ -17,15 +17,15 @@ This repository showcases my participation, rankings, and learning journey acros
 
 | Competition                                 | Category   | Rank | Teams | Link                                        |
 | ------------------------------------------- | ---------- | ---- | ----- | ------------------------------------------- |
-| Stanford RNA 3D Folding Part 2              | Code       | 328  | 1867  | [View](https://www.kaggle.com/competitions) |
-| March Machine Learning Mania 2026           | Featured   | 1210 | 3462  | [View](https://www.kaggle.com/competitions) |
+| Stanford RNA 3D Folding Part 2              | Code       | 328  | 1867  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/rna-structure-prediction-notebook) |
+| March Machine Learning Mania 2026           | Featured   | 1210 | 3462  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
 | AI Mathematical Olympiad - Progress Prize 3 | Code       | 1988 | 4138  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
-| Predict Customer Churn                      | Playground | 83   | 4142  | [View](https://www.kaggle.com/competitions) |
-| Predicting Student Test Scores              | Playground | 131  | 4317  | [View](https://www.kaggle.com/competitions) |
-| Predicting Heart Disease                    | Playground | 318  | 4370  | [View](https://www.kaggle.com/competitions) |
-| Jaguar Re-Identification Challenge          | Community  | 39   | 348   | [View](https://www.kaggle.com/competitions) |
-| Hedge Fund - Time Series Forecasting        | Community  | 42   | 982   | [View](https://www.kaggle.com/competitions) |
-| ICDAR 2026 - CircleID: Pen Classification   | Community  | 52   | 389   | [View](https://www.kaggle.com/competitions) |
+| Predict Customer Churn                      | Playground | 83   | 4142  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
+| Predicting Student Test Scores              | Playground | 131  | 4317  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
+| Predicting Heart Disease                    | Playground | 318  | 4370  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
+| Jaguar Re-Identification Challenge          | Community  | 39   | 348   | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
+| Hedge Fund - Time Series Forecasting        | Community  | 42   | 982   | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
+| ICDAR 2026 - CircleID: Pen Classification   | Community  | 52   | 389   | [View](https://www.kaggle.com/code/mirzayasirabdullah07/a-icdra-best-score) |
 
 ---
 
