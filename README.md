@@ -24,7 +24,7 @@ This repository showcases my participation, rankings, and learning journey acros
 | Predicting Student Test Scores              | Playground | 131  | 4317  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
 | Predicting Heart Disease                    | Playground | 318  | 4370  | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
 | Jaguar Re-Identification Challenge          | Community  | 39   | 348   | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
-| Hedge Fund - Time Series Forecasting        | Community  | 42   | 982   | [View](https://www.kaggle.com/code/mirzayasirabdullah07/customer-churn-prediction-best-notebook) |
+| Hedge Fund - Time Series Forecasting        | Community  | 42   | 982   | [View](https://www.kaggle.com/code/mirzayasirabdullah07/hedge-fund-new-notebook) |
 | ICDAR 2026 - CircleID: Pen Classification   | Community  | 52   | 389   | [View](https://www.kaggle.com/code/mirzayasirabdullah07/a-icdra-best-score) |
 
 ---
