@@ -34,12 +34,16 @@ This repository showcases my participation, rankings, and learning journey acros
 Here are some highlights from my Kaggle journey, including leaderboard rankings and competition results:
 
 <p align="center">
-  <img src="images/kaggle1.png" width="45%" />
-  <img src="images/kaggle2.png" width="45%" />
+ <img width="1217" height="679" alt="image" src="https://github.com/user-attachments/assets/907a5c23-5a69-4ba8-acd8-e8022bb27a0d" />
+ <img width="1268" height="683" alt="image" src="https://github.com/user-attachments/assets/d5fde4e2-86a1-4539-a9f7-b4823d5b0ed6" />
+ <img width="1242" height="524" alt="image" src="https://github.com/user-attachments/assets/aa111091-c3ba-4965-9f4a-3d497ea3b754" />
+
+
 </p>
 
 <p align="center">
-  <img src="images/kaggle3.png" width="60%" />
+  <img width="1249" height="362" alt="image" src="https://github.com/user-attachments/assets/2e140bf6-3d11-4350-ae15-101915a7c392" />
+
 </p>
 
 ---
