@@ -49,13 +49,7 @@ This repository showcases my participation, leaderboard rankings, and continuous
 | **ARC Prize 2026 - Paper Track** | **Featured** | **Unranked** | **113** | https://www.kaggle.com/myab07/competitions |
 | **House Prices - Advanced Regression Techniques** | **Getting Started** | **20** | **4140** | https://www.kaggle.com/myab07/competitions |
 
----
-
-# 📸 Kaggle Dashboard & Competition Snapshots
-
-Here are some highlights from my Kaggle journey, including leaderboard rankings and competition results.
-
-<p align="center">
+<!-- <p align="center">
 
 <img width="1217" height="679" src="https://github.com/user-attachments/assets/907a5c23-5a69-4ba8-acd8-e8022bb27a0d"/>
 
@@ -71,7 +65,7 @@ Here are some highlights from my Kaggle journey, including leaderboard rankings 
 
 <img width="1249" height="362" src="https://github.com/user-attachments/assets/2e140bf6-3d11-4350-ae15-101915a7c392"/>
 
-</p>
+</p> -->
 
 ---
 
