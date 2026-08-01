@@ -1,138 +1,165 @@
 # 🏆 Kaggle Competition Portfolio
 
-Welcome to my Kaggle competition portfolio!
-This repository showcases my participation, rankings, and learning journey across various machine learning and data science challenges.
+Welcome to my Kaggle Competition Portfolio!
+
+This repository showcases my participation, leaderboard rankings, and continuous learning journey across Kaggle competitions. It includes my work in Playground, Featured, Research, Community, Code, Simulation, and AI Agent competitions.
 
 ---
 
-## 👤 About Me
+# 👤 About Me
 
-* **Kaggle Username:** `mirzayasirabdullah07`
-* Passionate about Machine Learning, Data Science, and AI
-* Focus areas: Classification, Time Series, NLP, and Competitive ML
+- **Kaggle Username:** `myab07`
+- Passionate about Machine Learning, Data Science, Artificial Intelligence, and AI Agents.
+- Focus Areas:
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - Natural Language Processing
+  - Large Language Models (LLMs)
+  - Time Series Forecasting
+  - AI Agents
+  - Competitive Machine Learning
 
 ---
 
-## 📊 Competition Summary
+# 📊 Competition Summary
 
 | Competition | Category | Rank | Teams | Link |
-|------------|----------|------|-------|------|
-| Stanford RNA 3D Folding Part 2 | Code | 328 | 1867 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| Hedge Fund - Time Series Forecasting | Community | 42 | 982 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| Predicting Student Test Scores | Playground | 131 | 4317 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| AI Mathematical Olympiad - Progress Prize 3 | Code | 1098 | 4138 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| Meta Kaggle Hackathon | Featured | — | 119 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| Connect X | Simulation | 242 | 499 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| House Prices - Advanced Regression Techniques | Getting Started | 15 | 5111 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| ROGII - Wellbore Geology Prediction | Code | 311 | 3174 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| Predicting F1 Pit Stops | Playground | 287 | 3022 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| 5-Day AI Agents (Google Course) | Event | — | 0 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| The 2026 NeuroGolf Championship | Research | 39 | 2035 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| The Gemma 4 Good Hackathon | Featured | — | 1612 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| Predicting Irrigation Need | Playground | 109 | 4315 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| ARC Prize 2026 - ARC-AGI-2 | Code | 689 | 868 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| Retroviral Wall Challenge | Community | 10 | 62 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| Measuring Progress Toward AGI | Featured | — | 1069 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| NVIDIA Nemotron Model Reasoning Challenge | Featured | 201 | 4354 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| BirdCLEF+ 2026 | Research | 1365 | 4091 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| Predict Customer Churn | Playground | 83 | 4142 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| Triagegeist | Community | — | 144 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| March Machine Learning Mania 2026 | Featured | 1210 | 3462 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| SPR 2026 Mammography Report Classification | Community | 79 | 371 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| ICDAR 2026 - CircleID: Pen Classification | Community | 52 | 389 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| Predicting Heart Disease | Playground | 318 | 4370 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| WiDS Global Datathon 2026 | Community | 1398 | 1754 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| Jaguar Re-Identification Challenge | Community | 39 | 348 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| Orbit Wars | Featured | 889 | 4729 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
-| The 2026 NeuroGolf Championship | Research | 63 | 2963 | [View](https://www.kaggle.com/mirzayasirabdullah07/competitions) |
+|------------|----------|------|------:|------|
+| Predicting Smartphone Addiction | Playground | **71** | 108 | https://www.kaggle.com/myab07/competitions |
+| Kaggriculture | Featured (Simulation) | **72** | 394 | https://www.kaggle.com/myab07/competitions |
+| Solar Filament Segmentation Challenge 2026 | Community | **17** | 243 | https://www.kaggle.com/myab07/competitions |
+| Autonomous Agent Prediction (Beta) | Playground | **99** | 408 | https://www.kaggle.com/myab07/competitions |
+| Predicting Student Health Risk | Playground | **416** | 3355 | https://www.kaggle.com/myab07/competitions |
+| Biohub - Cell Tracking During Development | Research (Code) | **903** | 1844 | https://www.kaggle.com/myab07/competitions |
+| Liquidity Arena 2026 - AI Quant Trading Competition | Community | Unranked | 0 | https://www.kaggle.com/myab07/competitions |
+| CUHK-X Competition Small Model Track | Community | **136** | 152 | https://www.kaggle.com/myab07/competitions |
+| CUHK-X Competition Large Model Track | Community | **101** | 108 | https://www.kaggle.com/myab07/competitions |
+| Scripture in New Frontiers | Community | Unranked | 73 | https://www.kaggle.com/myab07/competitions |
+| Pokémon Company - PTCG AI Battle Challenge Simulation | Featured (Simulation) | **918** | 6090 | https://www.kaggle.com/myab07/competitions |
+| Pokémon Company - PTCG AI Battle Challenge Strategy | Featured | Unranked | 279 | https://www.kaggle.com/myab07/competitions |
+| AI Agent Security - Multi-Step Tool Attacks | Featured (Code) | **1004** | 2640 | https://www.kaggle.com/myab07/competitions |
+| BenchFlow - Agent Skill Lift | Community | Unranked | 168 | https://www.kaggle.com/myab07/competitions |
+| MuseumSCAT: Specimen Collection Annotation Task | Community | Unranked | 67 | https://www.kaggle.com/myab07/competitions |
+| Hyperspectral Object Tracking Challenge 2026 | Community | **75** | 89 | https://www.kaggle.com/myab07/competitions |
+| ROGII - Wellbore Geology Prediction | Featured (Code) | **1045** | 6034 | https://www.kaggle.com/myab07/competitions |
+| UMUD Challenge: Muscle Architecture in Ultrasound Data | Community | **81** | 120 | https://www.kaggle.com/myab07/competitions |
+| ARC Prize 2026 - ARC-AGI-3 | Featured (Code) | **481** | 1998 | https://www.kaggle.com/myab07/competitions |
+| ARC Prize 2026 - ARC-AGI-2 | Featured (Code) | **734** | 1330 | https://www.kaggle.com/myab07/competitions |
+| **ARC Prize 2026 - Paper Track** | **Featured** | **Unranked** | **113** | https://www.kaggle.com/myab07/competitions |
+| **House Prices - Advanced Regression Techniques** | **Getting Started** | **20** | **4140** | https://www.kaggle.com/myab07/competitions |
 
 ---
 
-## 📸 Kaggle Dashboard & Competition Snapshots
+# 📸 Kaggle Dashboard & Competition Snapshots
 
-Here are some highlights from my Kaggle journey, including leaderboard rankings and competition results:
-
-<p align="center">
- ### Image 1
- <img width="1217" height="679" alt="image" src="https://github.com/user-attachments/assets/907a5c23-5a69-4ba8-acd8-e8022bb27a0d" />
- ### Image 2
- <img width="1217" height="679" alt="image" src="https://github.com/user-attachments/assets/d5fde4e2-86a1-4539-a9f7-b4823d5b0ed6" />
- ### Image 3
- <img width="1217" height="679" alt="image" src="https://github.com/user-attachments/assets/aa111091-c3ba-4965-9f4a-3d497ea3b754" />
-
-
-</p>
+Here are some highlights from my Kaggle journey, including leaderboard rankings and competition results.
 
 <p align="center">
- ### Image 4
-  <img width="1249" height="362" alt="image" src="https://github.com/user-attachments/assets/2e140bf6-3d11-4350-ae15-101915a7c392" />
+
+<img width="1217" height="679" src="https://github.com/user-attachments/assets/907a5c23-5a69-4ba8-acd8-e8022bb27a0d"/>
+
+<br><br>
+
+<img width="1217" height="679" src="https://github.com/user-attachments/assets/d5fde4e2-86a1-4539-a9f7-b4823d5b0ed6"/>
+
+<br><br>
+
+<img width="1217" height="679" src="https://github.com/user-attachments/assets/aa111091-c3ba-4965-9f4a-3d497ea3b754"/>
+
+<br><br>
+
+<img width="1249" height="362" src="https://github.com/user-attachments/assets/2e140bf6-3d11-4350-ae15-101915a7c392"/>
 
 </p>
 
 ---
 
-## 🚀 Highlights
+# 🚀 Highlights
 
-* 🥇 **Top 2%** – Predict Customer Churn (83/4142)
-* 🥈 **Top 12%** – Hedge Fund Time Series (42/982)
-* 🥉 Strong performance across multiple domains:
-
-  * Time Series Forecasting
-  * Computer Vision
-  * Tabular ML
-  * Scientific AI Problems
-
----
-
-## 🧠 Skills Demonstrated
-
-* Data Preprocessing & Feature Engineering
-* Model Building (XGBoost, Random Forest, Logistic Regression)
-* Imbalanced Data Handling (SMOTE)
-* Cross Validation & Model Evaluation
-* Time Series Forecasting
-* Computer Vision Basics
+- 🏆 Currently participating in **22 Kaggle Competitions**
+- 🥇 **Top 1%** — House Prices (20/4140)
+- 🥇 **Top 7%** — Solar Filament Segmentation Challenge (17/243)
+- 🥇 **Top 10%** — Kaggriculture (72/394)
+- 🥇 **Top 10%** — Hyperspectral Object Tracking (75/89)
+- 🤖 Competing in multiple AI Agent, Simulation, and Code competitions.
+- 📈 Active across Featured, Playground, Community, and Research competitions.
 
 ---
 
-## 🛠️ Tools & Libraries
+# 🧠 Skills Demonstrated
 
-* Python 🐍
-* Scikit-learn
-* XGBoost
-* Pandas & NumPy
-* Matplotlib & Seaborn
-* Imbalanced-learn
+- Data Cleaning
+- Data Preprocessing
+- Feature Engineering
+- Cross Validation
+- Model Evaluation
+- Classification
+- Regression
+- Time Series Forecasting
+- Computer Vision
+- AI Agents
+- Scientific Machine Learning
+- Simulation Competitions
+- AutoML
+- Ensemble Learning
 
 ---
 
-## 📁 Repository Structure
+# 🛠️ Tools & Libraries
 
-```
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- XGBoost
+- LightGBM
+- CatBoost
+- TensorFlow
+- PyTorch
+- OpenCV
+- Matplotlib
+- Seaborn
+- Imbalanced-learn
+- Optuna
+- Jupyter Notebook
+
+---
+
+# 📁 Repository Structure
+
+```text
 📦 kaggle-competitions
- ┣ 📂 stanford-rna-folding
- ┣ 📂 customer-churn
- ┣ 📂 heart-disease
- ┣ 📂 time-series-forecasting
+ ┣ 📂 playground
+ ┣ 📂 featured
+ ┣ 📂 community
+ ┣ 📂 research
+ ┣ 📂 simulation
+ ┣ 📂 ai-agents
  ┣ 📂 computer-vision
+ ┣ 📂 time-series
  ┗ 📜 README.md
 ```
 
 ---
 
-## 📈 Goals
+# 📈 Goals
 
-* Improve ranking consistency in Featured competitions
-* Achieve **Top 100 global ranking** in Kaggle
-* Expand into Deep Learning & LLM competitions
-
----
-
-## 🤝 Connect With Me
-
-* 🔗 Kaggle: https://www.kaggle.com/mirzayasirabdullah07
-* 🔗 LinkedIn: https://www.linkedin.com/in/mirza-yasir-abdullah-baig/
+- Reach Kaggle Competitions Expert
+- Consistently finish in Top 100
+- Improve performance in Featured competitions
+- Build advanced AI Agent solutions
+- Participate in more LLM and Computer Vision competitions
+- Publish high-quality Kaggle notebooks
 
 ---
 
-⭐ *If you like this repo, consider giving it a star!*
+# 🤝 Connect With Me
+
+- 🟠 **Kaggle:** https://www.kaggle.com/myab07
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mirza-yasir-abdullah-baig/
+- 💻 **GitHub:** https://github.com/mirzayasirabdullahbaig07
+
+---
+
+⭐ **If you like this repository, consider giving it a Star!**
